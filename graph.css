@@ -1,0 +1,122 @@
+#chart-container1 {
+    position: absolute;
+    top: 250px;
+    left: 40px;
+    width: 550px;
+    height: 270px; 
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #69767e;
+    background-color: white;
+}
+#chart-container2 {
+    position: absolute;
+    top: 250px;
+    right: 40px;
+    width: 550px;
+    height: 270px; 
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #cccccc;
+    background-color: white;
+}
+
+body {
+    color: #ffffff;
+  }
+  h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  p {
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive, sans-serif;
+  }
+  .para{
+    font-size: 20px;
+    font-style: italic;
+  }
+  body {
+    background-color: #041b49;
+  }
+  .p1{
+    position: relative;
+    top: 30px;
+    /* left: 10px; */
+  }
+  .p2{
+    position: relative;
+    top: 30px;
+    /* right: 10px; */
+  }
+
+  .press2{
+    position: relative;
+    top: auto;
+    width: 450px;
+    height: auto;
+  }
+
+  .knee2{
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 450px;
+    height: auto;
+  }
+
+  .ankle2{
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 450px;
+    height: auto;
+  }
+
+  .press1{
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 450px;
+    height: auto;
+  }
+
+  .knee1{
+    position: relative;
+    top: auto;
+    width: 450px;
+    height: 275px;
+  }
+
+  .ankle1{
+    position: relative;
+    top: auto;
+    width: 450px;
+    height: 275px;
+  }
+
+  .press1{
+    position: relative;
+    top: auto;
+    width: 450px;
+    height: 275px;
+  }
+
+  .quad1{
+    position: relative;
+    top: auto;
+    width: 450px;
+    height: 275px;
+  }
+
+  table {
+    position: relative;
+    top: 250px;
+    /* margin: 0 auto; */
+    border-collapse: separate;
+    border-spacing: 100px; /* Or cellspacing: 10px; */
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+  }
